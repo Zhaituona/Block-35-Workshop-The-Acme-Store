@@ -8,7 +8,7 @@
 
 ```bash
 git clone git@github.com:Zhaituona/Block-35-Workshop-The-Acme-Store.git
-cd the_acme_store
+
 
 npm install
 
